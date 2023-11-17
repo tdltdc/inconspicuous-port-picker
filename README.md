@@ -34,7 +34,7 @@ A trivial script that picks a random port from the inconspicuous ports list is
 included as a bonus.
 
 # Prerequisites
-[`pandas`](https://pandas.pydata.org/) and [`numpy`](https://numpy.org/).
+[pandas](https://pandas.pydata.org/) and [NumPy](https://numpy.org/).
 
 [^1]: The registry also has an "Unauthorized Use Reported" column which the
 script uses to filter out ports that are not unassigned but are known to be in
