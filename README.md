@@ -4,7 +4,7 @@ on a non-default port (for example, to reduce log spam from malicious SSH login
 attempts).
 
 The non-default port should preferably be inconspicuous to avoid falsely
-signalling that something interesting may running on your server.
+signalling that something interesting may be running on your server.
 
 Naively picking a random valid port number therefore is not a good idea, as you
 might (unknowingly) pick a port number that invites malicious traffic (for
